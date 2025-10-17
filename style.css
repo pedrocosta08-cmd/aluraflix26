@@ -5,3 +5,32 @@ body {
     margin: 10px;
 
 }
+h1{color: black;
+    font-size:25px}
+
+    P{font-size: 25px;}
+
+    headar{border-bottom: solid black;
+    margin: 2px;
+    padding: 10px;
+    color: aliceblue;
+    }
+    chamada{background-color: rgb(243, 248, 248);
+    padding-bottom: 80px;
+    padding-top: 80px;
+displey:flex;
+justify-content: center;
+}
+
+ing{height: 200px;}
+
+categoria-videos{display: flex;
+overflow-x: auto;
+gap: 15px;
+
+}
+
+.categoria{padding-left: 20px;
+padding-right: 20px;
+}
+
